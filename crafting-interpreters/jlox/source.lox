@@ -1,0 +1,21 @@
+var language = "lox";
+
+// this is a comment
+(( )){} // grouping stuff
+!*+-/=<> <= == // opxrators
+
+
+print -123.abs();
+var n = 123;
+print -n.abs();
+
+1234
+12.34
+
+.1234
+1234.
+
+var a = 100;
+print ---a;
+print - --a;
+print -- -a;

@@ -1,0 +1,15 @@
+{
+  "name": "learn-jwt",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "scripts": {},
+  "workspaces": [
+    "examples/*"
+  ],
+  "engines": {
+    "node": ">=14",
+    "pnpm": ">=7"
+  },
+  "packageManager": "pnpm@7.14.0"
+}
